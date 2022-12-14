@@ -1,0 +1,30 @@
+#share-btn{
+    padding:8px 20px;
+    margin-top:10px;
+    margin-left:10px ;
+    margin-right:10px;
+    border:2px solid black;
+    border-radius:40px;
+    background-color:green ;
+    color:white;
+    font-size:20pt;
+}
+#share-btn:hover{
+    background-color:blue;
+    color:white;
+}
+#plldt{
+    color:green;
+    font-size : 30pt;
+    font-weight:500;
+    font-style:oblique;
+
+}
+#pll{
+    color:rgb(226, 83, 43);
+    font-size : 25pt;
+    font-weight:700;
+    font-style:oblique;
+    text-align:center;
+
+}
